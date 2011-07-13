@@ -1,2 +1,1 @@
-__author__ = 'volodymyr'
-  
+import facebook_adapter
