@@ -1,1 +1,2 @@
 import facebook_adapter
+import twitter_adapter
